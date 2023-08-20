@@ -1,4 +1,4 @@
-package ContaBancaria.HerancaBancaria;
+package Java.ContaBancaria.HerancaBancaria;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
