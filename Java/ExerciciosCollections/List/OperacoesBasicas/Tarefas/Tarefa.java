@@ -1,4 +1,4 @@
-package Java.ExerciciosCollections.List.Tarefas;
+package Java.ExerciciosCollections.List.OperacoesBasicas.Tarefas;
 
 public class Tarefa {
     private String descricao;

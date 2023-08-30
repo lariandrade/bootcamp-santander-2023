@@ -1,4 +1,4 @@
-package Java.ExerciciosCollections.List.CarrinhoCompras;
+package Java.ExerciciosCollections.List.OperacoesBasicas.CarrinhoCompras;
 
 /*
  * Crie uma classe chamada "ListaCompras" que representa um carrinho de compras online. 

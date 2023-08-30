@@ -1,4 +1,4 @@
-package Java.ExerciciosCollections.List.Tarefas;
+package Java.ExerciciosCollections.List.OperacoesBasicas.Tarefas;
 
 /*
  * Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. 
